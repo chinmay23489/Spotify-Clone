@@ -28,7 +28,7 @@ let songs = [
 
     {songName: "Tera Yaar Hoon Main", filePath: "songs/9.mp3", coverPath: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yOiodzO5GeH9Q2q2NeTVTcaI9TCf7zYrK0VrZEbKAVYqrAENEdHajzQ1KSg6vD-5R2Y&usqp=CAU"},
 
-    {songName: "Raatan Lambiyan", filePath: "songs/10.mp3", coverPath: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3DNrp30UKb1ouhpjMwfsp2bJcztjtmPifCeAar8Pc0-TuTirYW3YkW_WcxYvtVpiGB24&usqp=CAU"},
+    {songName: "Raataan Lambiyan", filePath: "songs/10.mp3", coverPath: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3DNrp30UKb1ouhpjMwfsp2bJcztjtmPifCeAar8Pc0-TuTirYW3YkW_WcxYvtVpiGB24&usqp=CAU"},
 
     
 ]
